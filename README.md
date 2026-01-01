@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I have moved most of my projects to Codeberg, go take a look: https://codeberg.org/TristanB0
+
 <!--
 **TristanB0/TristanB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
